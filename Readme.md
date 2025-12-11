@@ -12,7 +12,7 @@ tags:
   - "#Excel"
 ---
 ## Ecommerce Executive Summary Dashboard:
-![[Pasted image 20251209234608.png]]
+![Dashboard](https://github.com/user-attachments/assets/c4c34ccc-d7dd-4dbd-b1f6-127596a6843d)
 
 ---
 ### Dataset: [ecommerce_sales_34550.csv]()
