@@ -11,11 +11,24 @@ tags:
   - "#SQL"
   - "#Excel"
 ---
-## Ecommerce Executive Summary Dashboard:
+## 🧑‍💻Critical Business Understanding from Ecommerce Executive Summary Analysis
+## ↗️ Executive Summary:
 ![Dashboard](https://github.com/user-attachments/assets/c4c34ccc-d7dd-4dbd-b1f6-127596a6843d)
 
 ---
-### Dataset: [ecommerce_sales_34550.csv]()
+
+
+### 🎯Objective:
+
+The objective is to build a visualization that supports business decision instantly. To support this I measured four key performance indicators supported by four point estimator to facilitate the understanding.
+- Month over month trend lines by revenue
+- Year over year revenue and cost comparison
+- Regional Performance Percentage
+- Top Performing Product
+Supporting Key point estimators in cards: `Total Revenue` `Total Profit Margin` `Gross Profit Margin` `Average Order Value` 
+
+---
+### Dataset: [ecommerce_sales_34550.csv](Ecoommerce-Dashboard/Dataset)
 
 This synthetic dataset represents **E-commerce sales transactions** containing **34,500 records across 17 features**. 
 ### 📊 Columns Overview
@@ -37,16 +50,6 @@ This synthetic dataset represents **E-commerce sales transactions** containing
 - `profit_margin` → Profit earned from the order
 - `customer_age` → Age of the customer (18–70)
 * `customer_gender` → Gender of the customer (Male/Female/Other)
-
----
-### 🎯Objective:
-
-The objective is to build a visualization that supports business decision instantly. To support this I measured four key performance indicators supported by four point estimator to facilitate the understanding.
-- Month over month trend lines by revenue
-- Year over year revenue and cost comparison
-- Regional Performance Percentage
-- Top Performing Product
-Supporting Key point estimators in cards: `Total Revenue` `Total Profit Margin` `Gross Profit Margin` `Average Order Value` 
 
 ---
 ### 📈 Month over Month Trend line:
@@ -77,4 +80,7 @@ Two Decision to make to maintain the business profit margin:
 - Launching a sales campaign of the year with more marketing budget to tackle the September 2025 negative revenue trends. 
 - Providing combo offer for existing stock of beauty product because of the **lowest cost to revenue ratio** of only **0.6** and **18%** of the total order amount, **the highest**.
 
+
+Reference:
+[github](https://github.com/mehedihassanome/Ecommerce-Dashboard)
 
